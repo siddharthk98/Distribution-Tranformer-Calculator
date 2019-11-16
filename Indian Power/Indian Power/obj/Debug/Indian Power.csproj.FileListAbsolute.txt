@@ -1,0 +1,13 @@
+C:\Users\Sid\source\repos\Indian Power\Indian Power\bin\Debug\Indian Power.exe.config
+C:\Users\Sid\source\repos\Indian Power\Indian Power\bin\Debug\Indian Power.exe
+C:\Users\Sid\source\repos\Indian Power\Indian Power\bin\Debug\Indian Power.pdb
+C:\Users\Sid\source\repos\Indian Power\Indian Power\obj\Debug\Indian Power.csprojAssemblyReference.cache
+C:\Users\Sid\source\repos\Indian Power\Indian Power\obj\Debug\Indian_Power.Form1.resources
+C:\Users\Sid\source\repos\Indian Power\Indian Power\obj\Debug\Indian_Power.Properties.Resources.resources
+C:\Users\Sid\source\repos\Indian Power\Indian Power\obj\Debug\Indian Power.csproj.GenerateResource.cache
+C:\Users\Sid\source\repos\Indian Power\Indian Power\obj\Debug\Indian Power.csproj.CoreCompileInputs.cache
+C:\Users\Sid\source\repos\Indian Power\Indian Power\obj\Debug\Indian Power.exe
+C:\Users\Sid\source\repos\Indian Power\Indian Power\obj\Debug\Indian Power.pdb
+C:\Users\Sid\source\repos\Indian Power\Indian Power\obj\Debug\Indian_Power.Form2.resources
+C:\Users\Sid\source\repos\Indian Power\Indian Power\bin\Debug\itextsharp.dll
+C:\Users\Sid\source\repos\Indian Power\Indian Power\obj\Debug\Indian Power.csproj.CopyComplete
